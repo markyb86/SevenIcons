@@ -1,9 +1,9 @@
-# Platinum9
+# SevenIcons
 
-This is a quick and dirty theme meant to approximate (but not really be too pixel accurate) the MacOS 9 (or System 7) theme.
+A fork of Platinum9/NineIcons to make the icons more in line for my Symptom7 (Macintosh System 7) XFCE/GTK3 theme.
 
-![System 7](http://i.imgur.com/T3KrxCv.png)
+![image](https://user-images.githubusercontent.com/34405495/178280175-7957d5d5-53d3-4557-83c5-3e13f7d0ae04.png)
 
-Place the folder NineIcons in ~/.icons (created the folder if it doesn't exists), same with the GTK theme, place it in .themes. 
 
-For the fonts, place them in .fonts and update your font cache and you should be good to go. 
+Place the folder NineIcons in ~/.icons (create the folder if it doesn't exist).
+
